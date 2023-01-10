@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-skilled developer that has been writing code and practicing full stack programming for an extended period of time, resulting in a strong foundation in both front-end and back-end development. constantly learning and staying up to date with the latest technologies in order to improve my skills. have a deep passion for coding and enjoy creating new and innovative projects.
+skilled developer that has been writing code and practicing full stack programming for an extended period of time, resulting in a strong foundation in both front-end and back-end development. constantly learning and staying up to date with the latest technologies in order to improve my skills. My particular area of focus is on front-end development, where I enjoy utilizing my skills and create visually appealing and user-friendly and intuitive UI.
 
 * 🖥️  See my portfolio at [motoladev.com](http://motoladev.com)
 * 🤝  I'm open to collaborating on interesting projects as a developer
